@@ -1,2 +1,2 @@
-# myportfolio
+# Link
 danielhicksportfolio.com
