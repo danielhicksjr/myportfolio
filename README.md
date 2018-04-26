@@ -1,2 +1,2 @@
 # Link
-danielhicksportfolio.com
+https://www.danielhicksportfolio.com
